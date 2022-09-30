@@ -1,2 +1,0 @@
-# Rover
-For demo
